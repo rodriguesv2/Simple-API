@@ -1,0 +1,19 @@
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/home/rubens/.asdf/installs/ruby/3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-vyo72v sitelibdir\=./.gem.20240904-31192-vyo72v clean
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-vyo72v sitelibdir\=./.gem.20240904-31192-vyo72v
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-vyo72v sitelibdir\=./.gem.20240904-31192-vyo72v install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240904-31192-vyo72v/debug
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-vyo72v sitelibdir\=./.gem.20240904-31192-vyo72v clean

@@ -1,0 +1,27 @@
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+/home/rubens/.asdf/installs/ruby/3.3.4/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240904-34164-14j78w sitelibdir\=./.gem.20240904-34164-14j78w clean
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240904-34164-14j78w sitelibdir\=./.gem.20240904-34164-14j78w
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.so
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240904-34164-14j78w sitelibdir\=./.gem.20240904-34164-14j78w install
+/usr/bin/install -c -m 0755 rbs_extension.so ./.gem.20240904-34164-14j78w
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.3/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240904-34164-14j78w sitelibdir\=./.gem.20240904-34164-14j78w clean

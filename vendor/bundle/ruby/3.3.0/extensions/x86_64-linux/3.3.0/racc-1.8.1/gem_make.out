@@ -1,0 +1,18 @@
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/home/rubens/.asdf/installs/ruby/3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-ezfp3v sitelibdir\=./.gem.20240904-31192-ezfp3v clean
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-ezfp3v sitelibdir\=./.gem.20240904-31192-ezfp3v
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-ezfp3v sitelibdir\=./.gem.20240904-31192-ezfp3v install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240904-31192-ezfp3v/racc
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-ezfp3v sitelibdir\=./.gem.20240904-31192-ezfp3v clean

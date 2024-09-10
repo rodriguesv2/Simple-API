@@ -1,0 +1,16 @@
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/home/rubens/.asdf/installs/ruby/3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-eek8ey sitelibdir\=./.gem.20240904-31192-eek8ey clean
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-eek8ey sitelibdir\=./.gem.20240904-31192-eek8ey
+make: Nada a ser feito para 'all'.
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-eek8ey sitelibdir\=./.gem.20240904-31192-eek8ey install
+
+current directory: /home/rubens/Documentos/projetos-estudo/simple_api/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240904-31192-eek8ey sitelibdir\=./.gem.20240904-31192-eek8ey clean
