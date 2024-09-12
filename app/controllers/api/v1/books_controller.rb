@@ -1,4 +1,6 @@
 class Api::V1::BooksController < ApplicationController
+  before_action :authenticate_user!
+
   # GET /api/v1/books
   def index
     books = Book.all
@@ -16,6 +18,8 @@ class Api::V1::BooksController < ApplicationController
   # POST /api/v1/books
   def create
     book = Book.new(book_params)
+    puts "Esse é o hash: #{book_params}"
+    puts "Esse é a instancia: #{book.author}"
     if book.save
       render json: book, status: :created
     else
