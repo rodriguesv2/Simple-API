@@ -8,7 +8,7 @@ gem "sqlite3", ">= 1.4"
 gem "puma", ">= 5.0"
 gem "httparty"
 # Use MongoDB for the database, with Mongoid as the ODM
-gem "mongoid", "9.0.1"
+gem "mongoid", "9.0.2"
 gem "devise"
 
 # The Rails CLI tool for MongoDB
