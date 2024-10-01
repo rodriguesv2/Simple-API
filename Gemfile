@@ -10,6 +10,7 @@ gem "httparty"
 # Use MongoDB for the database, with Mongoid as the ODM
 gem "mongoid", "9.0.1"
 gem "devise"
+gem "devise-jwt", "~> 0.12.1"
 
 # The Rails CLI tool for MongoDB
 gem "railsmdb", "1.0.0.alpha3"
